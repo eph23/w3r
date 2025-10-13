@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    height: 100vh;
+    padding: 30px;
+    align-items: center;
+    color: white;
+    background: linear-gradient(to top left, #28b487, #7dd56f);
+}
+h1 {
+    font-size: 50px;
+    line-height: 1.3;
+    width: 100%;
+    text-align: center;
+}
+h3 {
+    font-size: 22px;
+    line-height: 1.3;
+    width: 100%;
+    text-align: left;
+}
+
+p,
+li {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: left;
+}
+
+ul {
+    color: white;
+    list-style-type: square;
+}
